@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/amit-labs/static/css/main.2391b130.css",
-    "main.js": "/amit-labs/static/js/main.e979d6f0.js",
+    "main.css": "/amit-labs/static/css/main.361c4a4c.css",
+    "main.js": "/amit-labs/static/js/main.56da77ea.js",
     "static/js/787.d1d4a2c2.chunk.js": "/amit-labs/static/js/787.d1d4a2c2.chunk.js",
     "static/media/chemical.png": "/amit-labs/static/media/chemical.42a0e750ed03d8fce6c2.png",
     "static/media/Labware.png": "/amit-labs/static/media/Labware.17e3547a4e5594bb9bf3.png",
@@ -13,12 +13,12 @@
     "static/media/LifeScience.png": "/amit-labs/static/media/LifeScience.3a35f3181f86b8d2103e.png",
     "static/media/logo.png": "/amit-labs/static/media/logo.08695009b25c8331a768.png",
     "index.html": "/amit-labs/index.html",
-    "main.2391b130.css.map": "/amit-labs/static/css/main.2391b130.css.map",
-    "main.e979d6f0.js.map": "/amit-labs/static/js/main.e979d6f0.js.map",
+    "main.361c4a4c.css.map": "/amit-labs/static/css/main.361c4a4c.css.map",
+    "main.56da77ea.js.map": "/amit-labs/static/js/main.56da77ea.js.map",
     "787.d1d4a2c2.chunk.js.map": "/amit-labs/static/js/787.d1d4a2c2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2391b130.css",
-    "static/js/main.e979d6f0.js"
+    "static/css/main.361c4a4c.css",
+    "static/js/main.56da77ea.js"
   ]
 }
